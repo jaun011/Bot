@@ -1,0 +1,7 @@
+{
+    "ConfigGeral": {
+        "embeddesc": "\n``#{desc}``\n\n**| Valor à vista:** `#{preco}`\n**| Restam:** `#{estoque}`",
+        "embedtitle": "#{nome}",
+        "emojibutton": "1243275863827546224"
+    }
+}

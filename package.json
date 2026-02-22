@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "adm-zip": "^0.5.16",
+    "axios": "^1.8.4",
+    "better-sqlite3": "^11.10.0",
+    "canvas": "^3.1.0",
+    "chartjs-node-canvas": "^5.0.0",
+    "discord.js": "^14.19.3",
+    "imap": "^0.8.17",
+    "imap-simple": "^5.1.0",
+    "mailparser": "^3.7.3",
+    "mercadopago": "^2.4.0",
+    "pm2": "^6.0.13",
+    "qrcode": "^1.5.4",
+    "quick.db": "^9.1.7",
+    "wio.db": "^4.0.22"
+  }
+}
